@@ -15,7 +15,7 @@ namespace PushGitHub.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Welcome to SkillTree";
 
             return View();
         }
