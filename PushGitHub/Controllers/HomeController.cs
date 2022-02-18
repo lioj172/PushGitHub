@@ -22,7 +22,8 @@ namespace PushGitHub.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "https://skilltree.my";
+            ViewBag.Message = "02-5568-6577#101";
 
             return View();
         }
